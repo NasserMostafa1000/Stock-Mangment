@@ -1,0 +1,52 @@
+D:\WORK\Faisl\UhlSportDataAccessLayer\bin\Debug\CurrentUser\GlobalCurrentUser.cs
+D:\WORK\Faisl\UhlSportDataAccessLayer\bin\Debug\FaisalSportDataAccessLayer.dll.config
+D:\WORK\Faisl\UhlSportDataAccessLayer\bin\Debug\FaisalSportDataAccessLayer.dll
+D:\WORK\Faisl\UhlSportDataAccessLayer\bin\Debug\FaisalSportDataAccessLayer.pdb
+D:\WORK\Faisl\UhlSportDataAccessLayer\bin\Debug\BouncyCastle.Crypto.dll
+D:\WORK\Faisl\UhlSportDataAccessLayer\bin\Debug\EntityFramework.dll
+D:\WORK\Faisl\UhlSportDataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\WORK\Faisl\UhlSportDataAccessLayer\bin\Debug\System.Data.SQLite.dll
+D:\WORK\Faisl\UhlSportDataAccessLayer\bin\Debug\System.Data.SQLite.EF6.dll
+D:\WORK\Faisl\UhlSportDataAccessLayer\bin\Debug\System.Data.SQLite.Linq.dll
+D:\WORK\Faisl\UhlSportDataAccessLayer\bin\Debug\EntityFramework.xml
+D:\WORK\Faisl\UhlSportDataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\WORK\Faisl\UhlSportDataAccessLayer\bin\Debug\System.Data.SQLite.xml
+D:\WORK\Faisl\UhlSportDataAccessLayer\obj\Debug\FaisalSportDataAccessLayer.csproj.AssemblyReference.cache
+D:\WORK\Faisl\UhlSportDataAccessLayer\obj\Debug\FaisalSportDataAccessLayer.csproj.CoreCompileInputs.cache
+D:\WORK\Faisl\UhlSportDataAccessLayer\obj\Debug\FaisalSp.B24A9EE4.Up2Date
+D:\WORK\Faisl\UhlSportDataAccessLayer\obj\Debug\FaisalSportDataAccessLayer.dll
+D:\WORK\Faisl\UhlSportDataAccessLayer\obj\Debug\FaisalSportDataAccessLayer.pdb
+D:\WORK\Faisl\UhlSportDataAccessLayer\bin\Debug\Math.Gmp.Native.dll
+D:\WORK\Faisl\UhlSportDataAccessLayer\bin\Debug\Math.Gmp.Native.pdb
+D:\WORK\Faisl\UhlSportDataAccessLayer\bin\Debug\Math.Gmp.Native.xml
+D:\WORK\Faisl\UhlSportDataAccessLayer\bin\Debug\MathNet.Numerics.dll
+D:\WORK\Faisl\UhlSportDataAccessLayer\bin\Debug\System.ValueTuple.dll
+D:\WORK\Faisl\UhlSportDataAccessLayer\bin\Debug\MathNet.Numerics.xml
+D:\WORK\Faisl\UhlSportDataAccessLayer\bin\Debug\System.ValueTuple.xml
+D:\WORK\Faisl\UhlSportDataAccessLayer\bin\Debug\DatabaseFile\FaislDb.db
+D:\WORK\Faisl - Copy\UhlSportDataAccessLayer\bin\Debug\CurrentUser\GlobalCurrentUser.cs
+D:\WORK\Faisl - Copy\UhlSportDataAccessLayer\bin\Debug\FaisalSportDataAccessLayer.dll.config
+D:\WORK\Faisl - Copy\UhlSportDataAccessLayer\bin\Debug\FaisalSportDataAccessLayer.dll
+D:\WORK\Faisl - Copy\UhlSportDataAccessLayer\bin\Debug\FaisalSportDataAccessLayer.pdb
+D:\WORK\Faisl - Copy\UhlSportDataAccessLayer\bin\Debug\BouncyCastle.Crypto.dll
+D:\WORK\Faisl - Copy\UhlSportDataAccessLayer\bin\Debug\EntityFramework.dll
+D:\WORK\Faisl - Copy\UhlSportDataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\WORK\Faisl - Copy\UhlSportDataAccessLayer\bin\Debug\Math.Gmp.Native.dll
+D:\WORK\Faisl - Copy\UhlSportDataAccessLayer\bin\Debug\MathNet.Numerics.dll
+D:\WORK\Faisl - Copy\UhlSportDataAccessLayer\bin\Debug\System.Data.SQLite.dll
+D:\WORK\Faisl - Copy\UhlSportDataAccessLayer\bin\Debug\System.Data.SQLite.EF6.dll
+D:\WORK\Faisl - Copy\UhlSportDataAccessLayer\bin\Debug\System.Data.SQLite.Linq.dll
+D:\WORK\Faisl - Copy\UhlSportDataAccessLayer\bin\Debug\System.ValueTuple.dll
+D:\WORK\Faisl - Copy\UhlSportDataAccessLayer\bin\Debug\EntityFramework.xml
+D:\WORK\Faisl - Copy\UhlSportDataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\WORK\Faisl - Copy\UhlSportDataAccessLayer\bin\Debug\Math.Gmp.Native.pdb
+D:\WORK\Faisl - Copy\UhlSportDataAccessLayer\bin\Debug\Math.Gmp.Native.xml
+D:\WORK\Faisl - Copy\UhlSportDataAccessLayer\bin\Debug\MathNet.Numerics.xml
+D:\WORK\Faisl - Copy\UhlSportDataAccessLayer\bin\Debug\System.Data.SQLite.xml
+D:\WORK\Faisl - Copy\UhlSportDataAccessLayer\bin\Debug\System.ValueTuple.xml
+D:\WORK\Faisl - Copy\UhlSportDataAccessLayer\obj\Debug\FaisalSportDataAccessLayer.csproj.AssemblyReference.cache
+D:\WORK\Faisl - Copy\UhlSportDataAccessLayer\obj\Debug\FaisalSportDataAccessLayer.csproj.CoreCompileInputs.cache
+D:\WORK\Faisl - Copy\UhlSportDataAccessLayer\obj\Debug\FaisalSp.B24A9EE4.Up2Date
+D:\WORK\Faisl - Copy\UhlSportDataAccessLayer\obj\Debug\FaisalSportDataAccessLayer.dll
+D:\WORK\Faisl - Copy\UhlSportDataAccessLayer\obj\Debug\FaisalSportDataAccessLayer.pdb
+D:\WORK\Faisl - Copy\UhlSportDataAccessLayer\bin\Debug\DatabaseFile\FaislDb.db

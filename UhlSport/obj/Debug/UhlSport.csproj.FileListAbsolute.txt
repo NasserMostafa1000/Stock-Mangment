@@ -1,0 +1,70 @@
+D:\WORK\UhlSport\obj\Debug\UhlSport.csproj.AssemblyReference.cache
+D:\WORK\UhlSport\obj\Debug\UhlSport.Properties.Resources.resources
+D:\WORK\UhlSport\obj\Debug\UhlSport.csproj.GenerateResource.cache
+D:\WORK\UhlSport\obj\Debug\UhlSport.csproj.CoreCompileInputs.cache
+D:\WORK\UhlSport\bin\Debug\UhlSportDataAccessLayer.dll
+D:\WORK\UhlSport\bin\Debug\UhlSportDataAccessLayer.pdb
+D:\WORK\UhlSport\obj\Debug\UhlSport.FrmMain.resources
+D:\WORK\UhlSport\obj\Debug\UhlSport.AddNewAdnEditProduct.resources
+D:\WORK\UhlSport\obj\Debug\UhlSport.FrmAddEditCustmor.resources
+D:\WORK\UhlSport\obj\Debug\UhlSport.FrmAddNewEmployee.resources
+D:\WORK\UhlSport\obj\Debug\UhlSport.SellOrder.resources
+D:\WORK\UhlSport\obj\Debug\UhlSport.FrmInvoice.resources
+D:\WORK\UhlSport\obj\Debug\UhlSport.ClsEditInvoice.resources
+D:\WORK\UhlSport\obj\Debug\UhlSport.SignIn.resources
+D:\WORK\UhlSport\obj\Debug\UhlSport.csproj.Up2Date
+D:\WORK\UhlSport\obj\Debug\UhlSport.AddEditUsers.resources
+D:\WORK\UhlSport\obj\Debug\UhlSport.FrmPayPartOfDues.resources
+D:\WORK\UhlSport\obj\Debug\UhlSport.FrmPayPartOfDuesForMultiSales.resources
+D:\WORK\UhlSport\obj\Debug\UhlSport.FrmTheDetailsOfMultiInvoice.resources
+D:\WORK\UhlSport\bin\Debug\EntityFramework.dll
+D:\WORK\UhlSport\bin\Debug\EntityFramework.SqlServer.dll
+D:\WORK\UhlSport\bin\Debug\System.Data.SQLite.dll
+D:\WORK\UhlSport\bin\Debug\System.Data.SQLite.EF6.dll
+D:\WORK\UhlSport\bin\Debug\System.Data.SQLite.Linq.dll
+D:\WORK\UhlSport\bin\Debug\UhlSportDataAccessLayer.dll.config
+D:\WORK\UhlSport\bin\Debug\EntityFramework.xml
+D:\WORK\UhlSport\bin\Debug\EntityFramework.SqlServer.xml
+D:\WORK\UhlSport\bin\Debug\System.Data.SQLite.xml
+D:\WORK\UhlSport\bin\Debug\GlobalCurrentUser.cs
+D:\WORK\UhlSport\bin\Debug\FaislDb.db
+D:\WORK\UhlSport\bin\Debug\Faisl Company.exe.config
+D:\WORK\UhlSport\bin\Debug\Faisl Company.exe
+D:\WORK\UhlSport\bin\Debug\Faisl Company.pdb
+D:\WORK\UhlSport\obj\Debug\Faisl Company.exe
+D:\WORK\UhlSport\obj\Debug\Faisl Company.pdb
+D:\WORK\Faisl\UhlSport\bin\Debug\Faisl Company.exe.config
+D:\WORK\Faisl\UhlSport\bin\Debug\Faisl Company.exe
+D:\WORK\Faisl\UhlSport\bin\Debug\Faisl Company.pdb
+D:\WORK\Faisl\UhlSport\bin\Debug\EntityFramework.dll
+D:\WORK\Faisl\UhlSport\bin\Debug\EntityFramework.SqlServer.dll
+D:\WORK\Faisl\UhlSport\bin\Debug\System.Data.SQLite.dll
+D:\WORK\Faisl\UhlSport\bin\Debug\System.Data.SQLite.EF6.dll
+D:\WORK\Faisl\UhlSport\bin\Debug\System.Data.SQLite.Linq.dll
+D:\WORK\Faisl\UhlSport\bin\Debug\EntityFramework.xml
+D:\WORK\Faisl\UhlSport\bin\Debug\EntityFramework.SqlServer.xml
+D:\WORK\Faisl\UhlSport\bin\Debug\System.Data.SQLite.xml
+D:\WORK\Faisl\UhlSport\obj\Debug\UhlSport.csproj.AssemblyReference.cache
+D:\WORK\Faisl\UhlSport\obj\Debug\UhlSport.AddNewAdnEditProduct.resources
+D:\WORK\Faisl\UhlSport\obj\Debug\UhlSport.AddEditUsers.resources
+D:\WORK\Faisl\UhlSport\obj\Debug\UhlSport.ClsEditInvoice.resources
+D:\WORK\Faisl\UhlSport\obj\Debug\UhlSport.FrmAddEditCustmor.resources
+D:\WORK\Faisl\UhlSport\obj\Debug\UhlSport.FrmAddNewEmployee.resources
+D:\WORK\Faisl\UhlSport\obj\Debug\UhlSport.FrmInvoice.resources
+D:\WORK\Faisl\UhlSport\obj\Debug\UhlSport.FrmMain.resources
+D:\WORK\Faisl\UhlSport\obj\Debug\UhlSport.FrmPayPartOfDues.resources
+D:\WORK\Faisl\UhlSport\obj\Debug\UhlSport.FrmPayPartOfDuesForMultiSales.resources
+D:\WORK\Faisl\UhlSport\obj\Debug\UhlSport.FrmTheDetailsOfMultiInvoice.resources
+D:\WORK\Faisl\UhlSport\obj\Debug\UhlSport.SellOrder.resources
+D:\WORK\Faisl\UhlSport\obj\Debug\UhlSport.SignIn.resources
+D:\WORK\Faisl\UhlSport\obj\Debug\UhlSport.Properties.Resources.resources
+D:\WORK\Faisl\UhlSport\obj\Debug\UhlSport.csproj.GenerateResource.cache
+D:\WORK\Faisl\UhlSport\obj\Debug\UhlSport.csproj.CoreCompileInputs.cache
+D:\WORK\Faisl\UhlSport\obj\Debug\UhlSport.csproj.Up2Date
+D:\WORK\Faisl\UhlSport\obj\Debug\Faisl Company.exe
+D:\WORK\Faisl\UhlSport\obj\Debug\Faisl Company.pdb
+D:\WORK\Faisl\UhlSport\bin\Debug\CurrentUser\GlobalCurrentUser.cs
+D:\WORK\Faisl\UhlSport\bin\Debug\DatabaseFile\FaislDb.db
+D:\WORK\Faisl\UhlSport\bin\Debug\FaisalSportDataAccessLayer.dll
+D:\WORK\Faisl\UhlSport\bin\Debug\FaisalSportDataAccessLayer.pdb
+D:\WORK\Faisl\UhlSport\bin\Debug\FaisalSportDataAccessLayer.dll.config

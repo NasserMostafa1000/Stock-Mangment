@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaisalSport", "FaisalSport.csproj", "{64B36644-E6B7-4E8C-9571-93FB510FC4A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaisalSportDataAccessLayer", "..\UhlSportDataAccessLayer\FaisalSportDataAccessLayer.csproj", "{1E2093DF-0C34-4CDF-BFF6-CF65211CF6BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64B36644-E6B7-4E8C-9571-93FB510FC4A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64B36644-E6B7-4E8C-9571-93FB510FC4A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64B36644-E6B7-4E8C-9571-93FB510FC4A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64B36644-E6B7-4E8C-9571-93FB510FC4A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E2093DF-0C34-4CDF-BFF6-CF65211CF6BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E2093DF-0C34-4CDF-BFF6-CF65211CF6BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E2093DF-0C34-4CDF-BFF6-CF65211CF6BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E2093DF-0C34-4CDF-BFF6-CF65211CF6BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {458CE43F-8038-428A-95EB-2ABF41055A00}
+	EndGlobalSection
+EndGlobal

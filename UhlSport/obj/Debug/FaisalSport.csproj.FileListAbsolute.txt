@@ -1,0 +1,101 @@
+D:\WORK\Faisl\UhlSport\obj\Debug\FaisalSport.csproj.AssemblyReference.cache
+D:\WORK\Faisl\UhlSport\obj\Debug\FaisalSport.Properties.Resources.resources
+D:\WORK\Faisl\UhlSport\obj\Debug\FaisalSport.csproj.GenerateResource.cache
+D:\WORK\Faisl\UhlSport\obj\Debug\FaisalSport.csproj.CoreCompileInputs.cache
+D:\WORK\Faisl\UhlSport\bin\Debug\CurrentUser\GlobalCurrentUser.cs
+D:\WORK\Faisl\UhlSport\bin\Debug\Faisal Company.exe.config
+D:\WORK\Faisl\UhlSport\bin\Debug\Faisal Company.exe
+D:\WORK\Faisl\UhlSport\bin\Debug\Faisal Company.pdb
+D:\WORK\Faisl\UhlSport\bin\Debug\EntityFramework.dll
+D:\WORK\Faisl\UhlSport\bin\Debug\EntityFramework.SqlServer.dll
+D:\WORK\Faisl\UhlSport\bin\Debug\FaisalSportDataAccessLayer.dll
+D:\WORK\Faisl\UhlSport\bin\Debug\System.Data.SQLite.dll
+D:\WORK\Faisl\UhlSport\bin\Debug\System.Data.SQLite.EF6.dll
+D:\WORK\Faisl\UhlSport\bin\Debug\System.Data.SQLite.Linq.dll
+D:\WORK\Faisl\UhlSport\bin\Debug\FaisalSportDataAccessLayer.pdb
+D:\WORK\Faisl\UhlSport\bin\Debug\FaisalSportDataAccessLayer.dll.config
+D:\WORK\Faisl\UhlSport\bin\Debug\EntityFramework.xml
+D:\WORK\Faisl\UhlSport\bin\Debug\EntityFramework.SqlServer.xml
+D:\WORK\Faisl\UhlSport\bin\Debug\System.Data.SQLite.xml
+D:\WORK\Faisl\UhlSport\obj\Debug\FaisalSport.AddNewAdnEditProduct.resources
+D:\WORK\Faisl\UhlSport\obj\Debug\FaisalSport.AddEditUsers.resources
+D:\WORK\Faisl\UhlSport\obj\Debug\FaisalSport.ClsEditInvoice.resources
+D:\WORK\Faisl\UhlSport\obj\Debug\FaisalSport.FrmAddEditCustmor.resources
+D:\WORK\Faisl\UhlSport\obj\Debug\FaisalSport.FrmAddNewEmployee.resources
+D:\WORK\Faisl\UhlSport\obj\Debug\FaisalSport.FrmInvoice.resources
+D:\WORK\Faisl\UhlSport\obj\Debug\FaisalSport.FrmMain.resources
+D:\WORK\Faisl\UhlSport\obj\Debug\FaisalSport.FrmPayPartOfDues.resources
+D:\WORK\Faisl\UhlSport\obj\Debug\FaisalSport.FrmPayPartOfDuesForMultiSales.resources
+D:\WORK\Faisl\UhlSport\obj\Debug\FaisalSport.FrmTheDetailsOfMultiInvoice.resources
+D:\WORK\Faisl\UhlSport\obj\Debug\FaisalSport.SellOrder.resources
+D:\WORK\Faisl\UhlSport\obj\Debug\FaisalSport.SignIn.resources
+D:\WORK\Faisl\UhlSport\obj\Debug\FaisalSp.61F0EEE5.Up2Date
+D:\WORK\Faisl\UhlSport\obj\Debug\Faisal Company.exe
+D:\WORK\Faisl\UhlSport\obj\Debug\Faisal Company.pdb
+D:\WORK\Faisl\UhlSport\bin\Debug\BouncyCastle.Crypto.dll
+D:\WORK\Faisl\UhlSport\bin\Debug\itextsharp.xml
+D:\WORK\Faisl\UhlSport\bin\Debug\BouncyCastle.Cryptography.dll
+D:\WORK\Faisl\UhlSport\bin\Debug\Math.Gmp.Native.dll
+D:\WORK\Faisl\UhlSport\bin\Debug\MathNet.Numerics.dll
+D:\WORK\Faisl\UhlSport\bin\Debug\System.ValueTuple.dll
+D:\WORK\Faisl\UhlSport\bin\Debug\BouncyCastle.Cryptography.xml
+D:\WORK\Faisl\UhlSport\bin\Debug\Math.Gmp.Native.pdb
+D:\WORK\Faisl\UhlSport\bin\Debug\Math.Gmp.Native.xml
+D:\WORK\Faisl\UhlSport\bin\Debug\MathNet.Numerics.xml
+D:\WORK\Faisl\UhlSport\bin\Debug\System.ValueTuple.xml
+D:\WORK\Faisl\UhlSport\bin\Debug\DatabaseFile\FaislDb.db
+D:\WORK\Faisl - Copy\UhlSport\bin\Debug\CurrentUser\GlobalCurrentUser.cs
+D:\WORK\Faisl - Copy\UhlSport\bin\Debug\BouncyCastle.Crypto.dll
+D:\WORK\Faisl - Copy\UhlSport\bin\Debug\BouncyCastle.Cryptography.dll
+D:\WORK\Faisl - Copy\UhlSport\bin\Debug\EntityFramework.dll
+D:\WORK\Faisl - Copy\UhlSport\bin\Debug\EntityFramework.SqlServer.dll
+D:\WORK\Faisl - Copy\UhlSport\bin\Debug\FaisalSportDataAccessLayer.dll
+D:\WORK\Faisl - Copy\UhlSport\bin\Debug\Math.Gmp.Native.dll
+D:\WORK\Faisl - Copy\UhlSport\bin\Debug\MathNet.Numerics.dll
+D:\WORK\Faisl - Copy\UhlSport\bin\Debug\System.Data.SQLite.dll
+D:\WORK\Faisl - Copy\UhlSport\bin\Debug\System.Data.SQLite.EF6.dll
+D:\WORK\Faisl - Copy\UhlSport\bin\Debug\System.Data.SQLite.Linq.dll
+D:\WORK\Faisl - Copy\UhlSport\bin\Debug\System.ValueTuple.dll
+D:\WORK\Faisl - Copy\UhlSport\bin\Debug\FaisalSportDataAccessLayer.pdb
+D:\WORK\Faisl - Copy\UhlSport\bin\Debug\FaisalSportDataAccessLayer.dll.config
+D:\WORK\Faisl - Copy\UhlSport\bin\Debug\BouncyCastle.Cryptography.xml
+D:\WORK\Faisl - Copy\UhlSport\bin\Debug\EntityFramework.xml
+D:\WORK\Faisl - Copy\UhlSport\bin\Debug\EntityFramework.SqlServer.xml
+D:\WORK\Faisl - Copy\UhlSport\bin\Debug\itextsharp.xml
+D:\WORK\Faisl - Copy\UhlSport\bin\Debug\Math.Gmp.Native.pdb
+D:\WORK\Faisl - Copy\UhlSport\bin\Debug\Math.Gmp.Native.xml
+D:\WORK\Faisl - Copy\UhlSport\bin\Debug\MathNet.Numerics.xml
+D:\WORK\Faisl - Copy\UhlSport\bin\Debug\System.Data.SQLite.xml
+D:\WORK\Faisl - Copy\UhlSport\bin\Debug\System.ValueTuple.xml
+D:\WORK\Faisl - Copy\UhlSport\obj\Debug\FaisalSport.csproj.AssemblyReference.cache
+D:\WORK\Faisl - Copy\UhlSport\obj\Debug\FaisalSport.AddNewAdnEditProduct.resources
+D:\WORK\Faisl - Copy\UhlSport\obj\Debug\FaisalSport.AddEditUsers.resources
+D:\WORK\Faisl - Copy\UhlSport\obj\Debug\FaisalSport.ClsEditInvoice.resources
+D:\WORK\Faisl - Copy\UhlSport\obj\Debug\FaisalSport.FrmAddEditCustmor.resources
+D:\WORK\Faisl - Copy\UhlSport\obj\Debug\FaisalSport.FrmAddNewEmployee.resources
+D:\WORK\Faisl - Copy\UhlSport\obj\Debug\FaisalSport.FrmInvoice.resources
+D:\WORK\Faisl - Copy\UhlSport\obj\Debug\FaisalSport.FrmMain.resources
+D:\WORK\Faisl - Copy\UhlSport\obj\Debug\FaisalSport.FrmPayPartOfDues.resources
+D:\WORK\Faisl - Copy\UhlSport\obj\Debug\FaisalSport.FrmPayPartOfDuesForMultiSales.resources
+D:\WORK\Faisl - Copy\UhlSport\obj\Debug\FaisalSport.FrmTheDetailsOfMultiInvoice.resources
+D:\WORK\Faisl - Copy\UhlSport\obj\Debug\FaisalSport.SellOrder.resources
+D:\WORK\Faisl - Copy\UhlSport\obj\Debug\FaisalSport.SignIn.resources
+D:\WORK\Faisl - Copy\UhlSport\obj\Debug\FaisalSport.Properties.Resources.resources
+D:\WORK\Faisl - Copy\UhlSport\obj\Debug\FaisalSport.csproj.GenerateResource.cache
+D:\WORK\Faisl - Copy\UhlSport\obj\Debug\FaisalSport.csproj.CoreCompileInputs.cache
+D:\WORK\Faisl - Copy\UhlSport\obj\Debug\FaisalSp.61F0EEE5.Up2Date
+D:\WORK\Faisl - Copy\UhlSport\bin\Debug\DatabaseFile\FaislDb.db
+D:\WORK\Faisl - Copy\UhlSport\bin\Debug\The Genral Manager.exe.config
+D:\WORK\Faisl - Copy\UhlSport\bin\Debug\The Genral Manager.exe
+D:\WORK\Faisl - Copy\UhlSport\bin\Debug\The Genral Manager.pdb
+D:\WORK\Faisl - Copy\UhlSport\obj\Debug\The Genral Manager.exe
+D:\WORK\Faisl - Copy\UhlSport\obj\Debug\The Genral Manager.pdb
+D:\WORK\Faisl - Copy\UhlSport\bin\Debug\zxing.dll
+D:\WORK\Faisl - Copy\UhlSport\bin\Debug\zxing.presentation.dll
+D:\WORK\Faisl - Copy\UhlSport\bin\Debug\zxing.xml
+D:\WORK\Faisl - Copy\UhlSport\bin\Debug\zxing.presentation.xml
+D:\WORK\Faisl - Copy\UhlSport\bin\Debug\The Genral Manager.exe.manifest
+D:\WORK\Faisl - Copy\UhlSport\bin\Debug\The Genral Manager.application
+D:\WORK\Faisl - Copy\UhlSport\obj\Debug\The Genral Manager.TrustInfo.xml
+D:\WORK\Faisl - Copy\UhlSport\obj\Debug\The Genral Manager.exe.manifest
+D:\WORK\Faisl - Copy\UhlSport\obj\Debug\The Genral Manager.application
