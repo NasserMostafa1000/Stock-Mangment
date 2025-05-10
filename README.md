@@ -3,6 +3,9 @@
 This is a self-contained desktop application developed entirely by me using the .NET Framework. The system is built with an embedded SQLite database, meaning no external server or database installation is required—everything is included within the app for easy deployment and smooth performance.
 
 👉 [Download now: The General Manager](https://www.mediafire.com/file/g5c1atwkfnk1s8i/The_Genral_Manager.zip/file)
+
+
+
 Email:2saadmahmoud312@gmail.com
 Password:1234
 
